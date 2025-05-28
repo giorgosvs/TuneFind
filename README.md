@@ -17,3 +17,7 @@ To run the project locally, follow these steps:
 ```bash
 git clone https://github.com/giorgosvs/TuneFind.git
 cd TuneFind
+
+#install node js
+npm install
+npm run dev
